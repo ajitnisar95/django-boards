@@ -1,0 +1,17 @@
+body {
+background-image: url(../img/papyrus-dark.png);
+font-size: 15px;
+}
+
+.logo {
+font-family: 'Peralta', cursive;
+}
+
+.logo a {
+color: rgba(9, 177, 45, 0.9);
+}
+
+.logo a:hover,
+.logo a:active {
+text-decoration: none;
+}
